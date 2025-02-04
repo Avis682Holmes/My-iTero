@@ -22,7 +22,7 @@ My iTero is an innovative expense tracking application designed to simplify your
 ## Author
 **Your A/C Name**
 - Email: your-email@example.com
-- Website: [My iTero](https://www.example.com)
+- Website: [My iTero](https://www.my-itero.com)
 
 ## Getting Started
 1. **Clone the Repository:**
